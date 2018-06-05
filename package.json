@@ -7,5 +7,13 @@
     "test": "node test.js"
   },
   "author": "Nuggget Industries",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nugget-Industries-2018/nugget-logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nugget-Industries-2018/nugget-logger/issues"
+  },
+  "homepage": "https://github.com/Nugget-Industries-2018/nugget-logger#readme"
 }
