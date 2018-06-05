@@ -1,0 +1,11 @@
+{
+  "name": "nugget-logger",
+  "version": "1.0.0",
+  "description": "logger for 2018 WIT Rovsquad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Nuggget Industries",
+  "license": "ISC"
+}
